@@ -1,5 +1,5 @@
 name: PlayerVisibility
-api-version: 1.18
+api-version: 1.16
 version: 1.0
 load: POSTWORLD
 main: de.faidhd.playervisibility.PlayerVisibilityPlugin
